@@ -8,4 +8,4 @@
 
 ## 🛠️ Technologies & Tools
 - 💻 Languages: Python, a little bit of Haxe/Flixel & Lua and _maybe_ some Scratch _(I don't use Scratch as much)_
-- 🧰 Tools: Ableton Live 11 Suite & FL Studio 21 (for making music), Clip Studio Paint (for drawing), PyCharm (for Python coding) and Brackets (for general coding)
+- 🧰 Tools: Ableton Live 11 Suite & FL Studio 21 (for making music), Clip Studio Paint (for drawing), Adobe Animate (for animating), PyCharm (for Python coding) and Phoenix Code (for general coding)
